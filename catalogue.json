@@ -1,0 +1,113 @@
+{
+  "pièces": [
+    {
+      "nom": "Salon",
+      "objets": [
+        { "nom": "Canapé 2 places", "volume_m3": 2.0 },
+        { "nom": "Canapé 3 places", "volume_m3": 3.0 },
+        { "nom": "Canapé d'angle", "volume_m3": 4.0 },
+        { "nom": "Fauteuil", "volume_m3": 1.0 },
+        { "nom": "Table basse", "volume_m3": 0.5 },
+        { "nom": "Meuble TV", "volume_m3": 1.0 },
+        { "nom": "Bibliothèque", "volume_m3": 1.5 },
+        { "nom": "Table à manger", "volume_m3": 1.5 },
+        { "nom": "Chaise", "volume_m3": 0.5 },
+        { "nom": "Télévision", "volume_m3": 0.25 },
+        { "nom": "Chaîne hi-fi", "volume_m3": 0.2 },
+        { "nom": "Lampe halogène", "volume_m3": 0.75 },
+        { "nom": "Grand tapis", "volume_m3": 0.5 },
+        { "nom": "Petit tapis", "volume_m3": 0.25 }
+      ]
+    },
+    {
+      "nom": "Salle à manger",
+      "objets": [
+        { "nom": "Table à manger", "volume_m3": 1.5 },
+        { "nom": "Chaise", "volume_m3": 0.5 },
+        { "nom": "Buffet", "volume_m3": 1.0 },
+        { "nom": "Vaisselier", "volume_m3": 1.5 }
+      ]
+    },
+    {
+      "nom": "Chambre",
+      "objets": [
+        { "nom": "Lit simple", "volume_m3": 1.2 },
+        { "nom": "Lit double", "volume_m3": 2.5 },
+        { "nom": "Armoire 2 portes", "volume_m3": 1.5 },
+        { "nom": "Armoire 3 portes", "volume_m3": 2.0 },
+        { "nom": "Commode", "volume_m3": 1.5 },
+        { "nom": "Table de chevet", "volume_m3": 0.5 },
+        { "nom": "Lampe de chevet", "volume_m3": 0.25 },
+        { "nom": "Coffre à jouets", "volume_m3": 0.25 },
+        { "nom": "Lit bébé", "volume_m3": 1.0 },
+        { "nom": "Lits superposés", "volume_m3": 2.5 },
+        { "nom": "Table à langer", "volume_m3": 0.75 }
+      ]
+    },
+    {
+      "nom": "Cuisine",
+      "objets": [
+        { "nom": "Réfrigérateur", "volume_m3": 1.0 },
+        { "nom": "Réfrigérateur américain", "volume_m3": 3.0 },
+        { "nom": "Cuisinière", "volume_m3": 1.0 },
+        { "nom": "Lave-vaisselle", "volume_m3": 1.0 },
+        { "nom": "Table de cuisine", "volume_m3": 1.0 },
+        { "nom": "Chaise de cuisine", "volume_m3": 0.5 },
+        { "nom": "Meuble mural", "volume_m3": 0.25 },
+        { "nom": "Meuble bas", "volume_m3": 0.5 },
+        { "nom": "Micro-ondes", "volume_m3": 0.5 },
+        { "nom": "Cafetière", "volume_m3": 0.1 }
+      ]
+    },
+    {
+      "nom": "Salle de bain",
+      "objets": [
+        { "nom": "Lave-linge", "volume_m3": 0.5 },
+        { "nom": "Sèche-linge", "volume_m3": 0.5 },
+        { "nom": "Meuble mural", "volume_m3": 0.25 },
+        { "nom": "Pharmacie", "volume_m3": 0.25 },
+        { "nom": "Meuble bas", "volume_m3": 0.5 },
+        { "nom": "Miroir", "volume_m3": 0.25 }
+      ]
+    },
+    {
+      "nom": "Bureau",
+      "objets": [
+        { "nom": "Bureau", "volume_m3": 1.5 },
+        { "nom": "Chaise de bureau", "volume_m3": 0.5 },
+        { "nom": "Bibliothèque", "volume_m3": 2.0 },
+        { "nom": "Ordinateur fixe", "volume_m3": 0.5 },
+        { "nom": "Imprimante", "volume_m3": 0.5 },
+        { "nom": "Lampe de bureau", "volume_m3": 0.25 }
+      ]
+    },
+    {
+      "nom": "Garage",
+      "objets": [
+        { "nom": "Bicyclette", "volume_m3": 1.0 },
+        { "nom": "Scooter", "volume_m3": 2.5 },
+        { "nom": "Établi", "volume_m3": 2.5 },
+        { "nom": "Tondeuse", "volume_m3": 1.25 },
+        { "nom": "Outils", "volume_m3": 0.5 },
+        { "nom": "Échelle", "volume_m3": 0.5 },
+        { "nom": "Brouette", "volume_m3": 1.0 }
+      ]
+    },
+    {
+      "nom": "Extérieur",
+      "objets": [
+        { "nom": "Parasol", "volume_m3": 0.25 },
+        { "nom": "Bain de soleil", "volume_m3": 0.5 },
+        { "nom": "Salon de jardin", "volume_m3": 0.75 },
+        { "nom": "Table de jardin", "volume_m3": 1.0 },
+        { "nom": "Chaise de jardin", "volume_m3": 0.5 },
+        { "nom": "Barbecue", "volume_m3": 0.5 },
+        { "nom": "Plante", "volume_m3": 0.25 },
+        { "nom": "Poussette", "volume_m3": 0.5 },
+        { "nom": "Vélo", "volume_m3": 0.5 },
+        { "nom": "Toboggan", "volume_m3": 1.5 },
+        { "nom": "Cabane enfant", "volume_m3": 2.5 }
+      ]
+    }
+  ]
+}
